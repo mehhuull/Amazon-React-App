@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Amazon-React-App/static/css/main.8d7a07f1.chunk.css",
+    "main.js": "/Amazon-React-App/static/js/main.242b64f5.chunk.js",
+    "main.js.map": "/Amazon-React-App/static/js/main.242b64f5.chunk.js.map",
+    "runtime-main.js": "/Amazon-React-App/static/js/runtime-main.cae0952e.js",
+    "runtime-main.js.map": "/Amazon-React-App/static/js/runtime-main.cae0952e.js.map",
+    "static/js/2.0eca012f.chunk.js": "/Amazon-React-App/static/js/2.0eca012f.chunk.js",
+    "static/js/2.0eca012f.chunk.js.map": "/Amazon-React-App/static/js/2.0eca012f.chunk.js.map",
+    "static/js/3.12c99f2e.chunk.js": "/Amazon-React-App/static/js/3.12c99f2e.chunk.js",
+    "static/js/3.12c99f2e.chunk.js.map": "/Amazon-React-App/static/js/3.12c99f2e.chunk.js.map",
+    "index.html": "/Amazon-React-App/index.html",
+    "static/css/main.8d7a07f1.chunk.css.map": "/Amazon-React-App/static/css/main.8d7a07f1.chunk.css.map",
+    "static/js/2.0eca012f.chunk.js.LICENSE.txt": "/Amazon-React-App/static/js/2.0eca012f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cae0952e.js",
+    "static/js/2.0eca012f.chunk.js",
+    "static/css/main.8d7a07f1.chunk.css",
+    "static/js/main.242b64f5.chunk.js"
+  ]
+}
